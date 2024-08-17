@@ -1,0 +1,79 @@
+﻿Statistics,2014,2015,2016,2017,2018,2019,2020,2021,2022
+Actual incidents,"2,052,925","2,118,681","2,161,927","2,213,293","2,280,328","2,440,496","2,242,459","2,264,285","2,411,535"
+Percentage change in rate ,-3.16,2.44,0.89,1.16,1.58,5.5,-9.1,0.39,4.58
+Percentage contribution to the Crime Severity Index (CSI) ,100,100,100,100,100,100,100,100,100
+Unfounded incidents,,,,"162,322","151,048","151,137","136,858","131,966","121,487"
+Percent unfounded ,,,,6.83,6.21,5.83,5.75,5.51,4.8
+Total cleared,"952,516","951,547","965,760","983,909","992,420","981,272","884,825","862,193","891,572"
+Cleared by charge,"607,852","616,111","631,989","640,720","661,139","689,323","609,773","592,754","601,835"
+Cleared otherwise,"344,664","335,436","333,771","343,189","331,281","291,949","275,052","269,439","289,737"
+"Total, persons charged","578,044","586,305","602,329","605,318","620,626","645,614","571,414","555,633","561,230"
+"Rate, total persons charged per 100,000 population aged 12 years and over ","1,874.92","1,888.41","1,918.53","1,903.96","1,922.96","1,968.81","1,721.07","1,660.51","1,643.72"
+"Total, adult charged","526,495","537,067","555,971","560,801","580,229","607,354","544,645","531,134","531,440"
+"Rate, adult charged per 100,000 population aged 18 years and over ","1,849.28","1,871.53","1,915.18","1,905.97","1,940.87","1,998.86","1,770.82","1,713.74","1,680.94"
+"Total, youth charged ","51,549","49,238","46,358","44,517","40,397","38,260","26,769","24,499","29,790"
+"Rate, youth charged per 100,000 population aged 12 to 17 years","2,184.21","2,094.40","1,959.68","1,878.98","1,697.93","1,589.56","1,095.05",992.29,"1,178.30"
+"Total, youth not charged ","64,978","62,422","59,373","60,705","53,214","45,879","32,165","32,998","40,389"
+"Rate, youth not charged per 100,000 population aged 12 to 17 years","2,753.21","2,655.20","2,509.86","2,562.25","2,236.65","1,906.11","1,315.79","1,336.52","1,597.53"
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Symbol legend:,,,,,,,,,
+.., not available for a specific reference period,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Table Corrections:,,,,,,,,,
+Date,Note,,,,,,,,
+8/1/2019,"On August 1, 2019, the data for 2018 for “Total impaired driving” have been corrected.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Footnotes:,,,,,,,,,
+1,"Incident-based Uniform Crime Reporting Survey (UCR2) data are not available for all respondents. In order to report this level of detail for police services still reporting to the Aggregate Uniform Crime Reporting Survey (UCR) over this time, a process of imputation was applied to derive counts for violations that do not exist on their own in the aggregate survey. For approximately 80% of the aggregate offence codes, there is a 1:1 mapping with a new incident-based violation code. For violations where this was not the case, such as the aggregate other Criminal Code category, it was necessary to estimate (impute) this figure using the distribution of other Criminal Code offences from existing Incident-based UCR2 respondents.",,,,,,,,
+2,"During the production of each year's crime statistics, data from the previous year are revised to reflect any updates or changes that have been received from the police services. For more information on the concepts, methods and quality of the data contained in this table, please contact the Canadian Centre for Justice and Community Safety Statistics at statcan.ccjcss-ccsjsc.statcan@statcan.gc.ca.",,,,,,,,
+3,"The methodology for calculating census metropolitan area (CMA) populations was modified in 2003. Starting in 1996, the populations for CMAs have been adjusted to reflect the actual policing boundaries within the CMA and do not reflect the official Statistics Canada population for these CMAs. CMA data are included within province-level data.",,,,,,,,
+4,"Police reported statistics may be affected by differences in the way police services deal with minor offences. In some instances, police or municipalities might chose to deal with some minor offences using municipal by-laws or provincial provisions rather than Criminal Code provisions. Counts are based on the most serious violation in the incident.",,,,,,,,
+5,"In January 2018, the Uniform Crime Reporting Survey (UCR) definitions of “founded” and “unfounded” criminal incidents were updated to reflect a more victim-centred approach for recording crimes that consider the complexities of certain offences such as sexual assault, family violence and intimate partner violence. Under the new reporting standards, specific offences may be more likely reported by police as founded rather than unfounded (or unsubstantiated), which would exclude them from police-reported crime rates and crime severity indices. Data for 2019 represent the first complete year of UCR data collected under the new reporting standards.  As a result, for selected violations and police services, the actual proportion of incidents in 2019 that were classified as “not cleared” has increased. Use caution when comparing these data with prior years.",,,,,,,,
+6,"A high crime rate or Crime Severity Index (CSI) may indicate that a municipality is a geographical area that provides commercial business, human or public services, or entertainment for many people who reside outside, as well as inside, the municipality. As a result, these municipalities may have large part-time or temporary populations which are excluded from both their population bases and their crime rate and CSI calculations.",,,,,,,,
+7,"Under the authority of the Canadian Forces Provost Marshal (CFPM), the Canadian Forces Military Police Group (CF MP Gp) is now reporting incidents to the Uniform Crime Reporting (UCR) Survey. They have provided incidents going back to January 2020. Data from the Office of the CFPM are aggregated at the national level to account for small counts and to protect confidentiality. Therefore, provincial and territorial totals will not equal Canada-level totals. Currently, the Canadian Centre for Justice and Community Safety Statistics (CCJCSS) is developing the methodology for determining the population counts for the Canadian Armed Forces (CAF). Therefore Crime Severity Index data and rates are not available.",,,,,,,,
+8,"It is important to note that while official police-reported data on crime from the Uniform Crime Reporting (UCR) Survey use Statistics Canada's standard Census Metropolitan Area (CMA) names, the boundaries for the policing-based CMAs do not always fully align with the standard CMA geographic units used for disseminating information about the Census of Population.",,,,,,,,
+9,"The 2021 Census of Population boundary changes have not yet been incorporated in police-reported crime statistics. The geographic boundaries from the 2016 Census are still being used as the base geography and changes for the 2021 Census, including new census metropolitan areas, are expected to be available in 2024.",,,,,,,,
+10,"With the release of 2012 data, revised population estimates at the respondent level were applied back to and including 2004. This resulted in boundary changes for the census metropolitan areas (CMA) of Saint John for 2005 to 2011 and for Winnipeg for 2011. Crime data for these years for these respondents have therefore been revised.",,,,,,,,
+11,"Under the authority of the Canadian Forces Provost Marshal (CFPM), the Canadian Forces Military Police Group (CF MP Gp) is now reporting incidents to the Uniform Crime Reporting (UCR) Survey. They have provided incidents going back to January 2020. Therefore, comparisons with data previous to 2020 should be made with caution.",,,,,,,,
+12,"In 2012, it was discovered that the Montreal Police Service had been incorrectly applying the agreed upon definition for reporting child pornography incidents to the Uniform Crime Reporting Survey (UCR). As such, the number of violations has been revised for the years 2008 to 2011.",,,,,,,,
+13,"Population figures reflect only the permanent or resident population of a jurisdiction. Where a jurisdiction serves as the centre for commercial businesses, human or public services, or entertainment, it may have substantial “part-time” populations, e.g., tourists, cabin owners, commuters, students, and seasonal staff. These temporary populations, whose permanent residence is within another jurisdiction, are excluded from a jurisdiction’s population figures. This may be a factor to consider when examining the crime rate and Crime Severity Index for some municipalities.",,,,,,,,
+14,This represents the year-over-year (current year over last year) percentage change in the rate of actual incidents.,,,,,,,,
+15,The percentage contribution to the Crime Severity Index (CSI) statistic indicates the relative impact of a given violation (or group of violations) on the CSI for a given geography and year. Changes in the percentage contribution of a violation over time may be the result of variations (up or down) to that violation or for other violations.,,,,,,,,
+16,"The Crime Severity Index (CSI) measures changes in the level of severity of crime in Canada from year to year. In the index, all crimes are assigned a weight based on their seriousness. The level of seriousness is based on actual sentences handed down by the courts in all provinces and territories. More serious crimes are assigned higher weights, less serious offences lower weights. As a result, more serious offences have a greater impact on changes in the index. The PRCSI is standardized to 100 in base year 2006. CSI weights are updated using data from the Integrated Criminal Courts Survey (ICCS) every 5 years. 2022 marks the third update to the CSI weights since 1998. 2021 revised and 2022 CSI data are presented here using the updated weights and may have a marginal impact on the CSI data itself. For further information, refer to data table 35100026.",,,,,,,,
+17,"Data for unfounded incidents are available for 2017 and subsequent years in order to resume collection that had been halted in 2006 due to inconsistent reporting. To improve comparability, the definition of founded and unfounded criminal incidents was revised in 2017 and any prescribed changes relating to the classification of incidents will be phased in over time starting with the reporting of 2019 data. As such, it is understood that inconsistencies in reporting may still exist in 2017 and 2018. Data may therefore be incomparable across police services.",,,,,,,,
+18,Total persons charged is the total of adults charged and youth charged.,,,,,,,,
+19,"Populations at the census metropolitan areas (CMA) level by age and sex are not available prior to 2004, and as a result, rates for adults and youth are not available for these years.",,,,,,,,
+20,Data on youth charged and youth not charged may include a small number of people under the age of 12.,,,,,,,,
+21,"Data for youth charged and youth not charged for impaired driving are not available prior to 2007. As a result, comparisons of Total all violations and Total Criminal Code violations (including traffic) over time should be made with caution.",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+"How to cite: Statistics Canada. Table 35-10-0177-01  Incident-based crime statistics, by detailed violations, Canada, provinces, territories, Census Metropolitan Areas and Canadian Forces Military Police",,,,,,,,,
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3510017701,,,,,,,,,
